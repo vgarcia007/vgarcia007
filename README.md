@@ -17,7 +17,6 @@ I build systems that actually help people get work done — from telecom tools t
 *(constantly evolving — nothing here stays the same for long)*
 
 
-### 📈 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgarcia007&langs_count=8)
 
 ---
@@ -30,4 +29,19 @@ I build systems that actually help people get work done — from telecom tools t
 
 ---
 
+
+
+### ⚡ Buy me a coffee (Bitcoin Lightning)
+
+If you like what I build and want to support one coffee ☕ 
+you can send a Tip via ⚡ Lightning</a>
+
+
+[![⚡ Tip via Lightning](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=lightning:outercrab37@walletofsatoshi.com)](lightning:outercrab37@walletofsatoshi.com)
+
+
+
+---
+
 > “Build small things that actually work — and let them grow only when they earn it.”
+
